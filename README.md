@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielaS-Tochi
 - 👀 I’m interested in programming learning
-- 🌱 I’m currently learning Java, UX and Phyton
+- 🌱 I’m currently learning Full-stack, UX and Phyton
 - 💞️ I’m looking to collaborate on everything I can 
   
 
