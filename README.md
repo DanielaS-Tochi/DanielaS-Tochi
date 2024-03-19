@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer programming learning and working 
 - 🌱 I’m currently learning Full-stack NodeJS
 - 💞️ I’m looking to collaborate on every project I can 😊
-- 🇦🇷 I'm from Argentina and I'm open to meet new people from all over the world  🌍🌎🌏🪐🌕(I speak Spanish and English)
+- 🇦🇷 I'm from Argentina and I'm open to meeting new people from all over the world  🌍🌎🌏🪐🌕(I speak Spanish and English)
   
 
 <!---
