@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielaS-Tochi
 - 👀 I’m interested in computer programming learning and working 
-- 🌱 I’m currently learning ICP, Blockchain, Web3, Motoko and more...
+- 🌱 I’m currently learning Solidity, ICP, Blockchain, Web3, Motoko and more...
 - 🌱 I´m a volunteer at @AdoptaUnJunior
 - 💞️ I’m looking to collaborate on every project I can 😊
 - 🇦🇷 I'm from Argentina and I'm teaching English and Spanish online  🌍🌎🌏🪐🌕(I speak Spanish and English)
