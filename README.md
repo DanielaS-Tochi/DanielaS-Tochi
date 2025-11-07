@@ -97,6 +97,10 @@
 </p>
 
 ---
+<p align="center">
+⭐️ Hecho con ❤️ y 🧉 por Daniela Silvana Tochi
+  <a href="https://github.com/sponsors/DanielaS-Tochi" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-DanielaS--Tochi-pink?logo=github-sponsors" alt="Sponsor badge" />
+  </a>
+</p>
 
-⭐️ **Hecho con ❤️ y 🧉 por [Daniela Silvana Tochi](https://github.com/DanielaS-Tochi)**  
-[![Sponsor](https://img.shields.io/badge/Sponsor-DanielaS--Tochi-pink?logo=github-sponsors)](https://github.com/sponsors/DanielaS-Tochi)
